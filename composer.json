@@ -1,5 +1,5 @@
 {
-    "name": "illuminate/http",
+    "name": "illum/http-foundation",
     "description": "The Illuminate Http package.",
     "license": "MIT",
     "homepage": "https://laravel.com",
@@ -19,7 +19,6 @@
         "illuminate/collections": "^8.0",
         "illuminate/macroable": "^8.0",
         "illuminate/session": "^8.0",
-        "illuminate/support": "^8.0",
         "symfony/http-foundation": "^5.4",
         "symfony/http-kernel": "^5.4",
         "symfony/mime": "^5.4"
